@@ -3,3 +3,4 @@
 *.elf
 *.smdh
 cmake-build-debug/
+build/
