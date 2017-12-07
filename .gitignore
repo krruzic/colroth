@@ -1,0 +1,5 @@
+.idea/
+*.3dsx
+*.elf
+*.smdh
+cmake-build-debug/
